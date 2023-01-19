@@ -72,10 +72,119 @@ header .roster{
     margin-left: auto;
     margin-right: auto;
 }
+header .roster .ros{
+    text-decoration:underline;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .logan{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .steve{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .patrick{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .kurtis{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .boivin{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .darcy{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .bret{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .bailey{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .ted{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .joe{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .liam{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .jackson{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .jonah{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .leddy{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .alden{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .robby{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .aidan{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .roland{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .warren{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+header .roster .edi{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 header .roster .forwards{
     text-decoration:underline;
     padding-top: 20px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 header .roster .defence{
@@ -83,8 +192,15 @@ header .roster .defence{
     padding-top: 20px;
     margin-right: auto;
     margin-left: auto;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
 header .roster .goalies{
     text-decoration: underline;
     padding-top: 20px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
+
